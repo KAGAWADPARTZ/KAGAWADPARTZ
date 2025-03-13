@@ -15,10 +15,5 @@ I'm a dedicated desktop, mobile, and web developer on a quest to use technology 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KAGAWADPARTZ&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KAGAWADPARTZ&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=KAGAWADPARTZ&icon=1&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
